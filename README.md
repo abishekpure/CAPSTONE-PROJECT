@@ -3,9 +3,9 @@ PROBLEM STATEMENT
 
 The purpose is to recognize the emotion and affective state of the speaker from his/her speech signal.
 
-DATA SOURCE USED
+DATASET USED
 
-We have used the RAVDESS dataset in this project.It is one of the most common datasets used for this exercise by others. It is highly preferred because of its quality of speeches, recordings and it has 24 actors of different genders.
+We have used the RAVDESS dataset in this project.It is one of the most common datasets used for this exercise by others. It is highly preferred because of its quality of speeches, recordings and it has 24 actors of different genders.Each of the 24 professional actors that make up the RAVDESS performs 104 distinct vocalizations representing a range of emotions, including joyful, sad, angry, afraid, surprised, disgusted, calm, and neutral.
 
 AIM
 
